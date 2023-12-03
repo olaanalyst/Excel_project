@@ -6,3 +6,4 @@
 ![Screenshot (26)](https://github.com/olaanalyst/Excel_project/assets/141564936/3181aa9e-a3af-4f54-b957-c65f99642059)
 ![Screenshot (30)](https://github.com/olaanalyst/Excel_project/assets/141564936/0a02cc11-9b3e-4886-b024-36a1ccebdf1b)
 ![Screenshot (32)](https://github.com/olaanalyst/Excel_project/assets/141564936/79184fd1-08b0-435e-b034-7ac78ce131a3)
+![Screenshot (31)](https://github.com/olaanalyst/Excel_project/assets/141564936/20ff46c6-c35f-4bce-b681-130066618a72)
