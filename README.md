@@ -3,8 +3,20 @@
 Data Cleaning also known as data cleansing or scrubbing, is the process of identifying and correcting errors, inconsistencies, and inaccuracies within a dataset. The primary goal is to enhance data quality, ensuring that the data is acurate, complete, and reliable. This involves handdling missing values, correcting formatting issues, and addressing outliers to prepare the data for analysis.
 
 Data Visualization involves representing data visually through charts, graphs, maps, or other graphical elements to facilitate understanding and interpretation. The goal is to communicate complete patterns, trends, and insights in a more accessible and understandable format. Visualization aids in decision-making by providing a clear and intuitive representation of data.
+
+## Introduction
+In my project, i aim to optimize data quality by employing data cleaning techniques in Excel, ensuring accuracy and reliability. Additionally, i plan to enhance data insights through effective visualization, utilizing Excel robust charting and graphing features for clearer representaton and interpretation of patterns within the Healthcare dataset.
+
+## Data sourcing 
+This dataset was downloaded from kaggle website. it contains the details patients infomation, Doctor's name, blood type, Total Revenue general by hospital, Date of Admission and discharge e.t.c, Updated up till 2018 to 2023 and there are 10001 rows and 16 column present in the Healthcare Dashboard.
 ![Screenshot (28)](https://github.com/olaanalyst/Excel_project/assets/141564936/6ebf0f1e-50f3-4705-af32-1330f3aa5fb5)
 ![Screenshot (29)](https://github.com/olaanalyst/Excel_project/assets/141564936/118dca6c-a498-429f-ac4d-c88abda9786d)
+
+## Problem Statement
+In my project, i encountered chaallenges with inconsistent data formatting in the "Billing Amount" column, which prompted me to standardize the represention by adding dollar signs.
+Additionally, i introduced a "Duration" column to capture time-related aspects. However the dataset suffered from duplications in the new values, necessitating a thorough data cleaning process to refine and streamline the information.
+Addressing these issues is pivotal to ensure data uniformity and eliminate redundancy, paving the way for accurate analysis and meaningful visualization.
+
 ![Screenshot (25)](https://github.com/olaanalyst/Excel_project/assets/141564936/20fa75e8-a5de-41d6-8723-6d3ef1a09d30)
 ![Screenshot (27)](https://github.com/olaanalyst/Excel_project/assets/141564936/d5cb0e2b-384a-45b9-9158-b01e8c76bd5d)
 ![Screenshot (26)](https://github.com/olaanalyst/Excel_project/assets/141564936/3181aa9e-a3af-4f54-b957-c65f99642059)
