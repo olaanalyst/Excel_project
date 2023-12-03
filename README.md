@@ -8,17 +8,17 @@ This dataset was downloaded from kaggle website. it contains the details patient
 ## Data Analysis Process
 To carry out this project a series of steps must be carried out in order to interpret this information. Finding these procedures is crucial because each step is important in ensuring that the data is processed correctly in order to provide relevant and useful information. the steps in this projects are listed below:
 
---Excel concept applied
---Problem Statement 
---Data Cleaning Process
---Data Visualization
---Communications and insights
+# Excel concept applied
+# Problem Statement 
+# Data Cleaning Process
+# Data Visualization
+# Communications and insights
 
 ## Excel concept applied are:
 
---Tables
---Pivot tables 
---Power Query
+# Tables
+# Pivot tables 
+# Power Query
 
 ## problem statement
 In my project, i encountered chaallenges with inconsistent data formatting in the "Billing Amount" column, which prompted me to standardize the representation by adding dollar signs.
