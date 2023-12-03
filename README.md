@@ -1,4 +1,7 @@
-# Excel_project
+## Excel Dashboard Analysis
+## Data cleaning, inspecting and tranforming the Healthcare dataset
+Data Cleaning also known as data cleansing or scrubbing, is the process of identifying and correcting errors, inconsistencies, and inaccuracies within a dataset. The primary goal is to enhance data quality, ensuring that the data is acurate, complete, and reliable. This involves handdling missing values, correcting formatting issues, and addressing outliers to prepare the data for analysis.
+Data Visualization involves representing data visually through charts, graphs, maps, or other graphical elements to facilitate understanding and interpretation. The goal is to communicate complete patterns, trends, and insights in a more accessible and understandable format. Visualization aids in decision-making by providing a clear and intuitive representation of data.
 ![Screenshot (28)](https://github.com/olaanalyst/Excel_project/assets/141564936/6ebf0f1e-50f3-4705-af32-1330f3aa5fb5)
 ![Screenshot (29)](https://github.com/olaanalyst/Excel_project/assets/141564936/118dca6c-a498-429f-ac4d-c88abda9786d)
 ![Screenshot (25)](https://github.com/olaanalyst/Excel_project/assets/141564936/20fa75e8-a5de-41d6-8723-6d3ef1a09d30)
