@@ -1,2 +1,2 @@
 # Excel_project
-![screenshot(25)](.png)
+![screenshot 26](path/to/your/screenshot/26.png)
