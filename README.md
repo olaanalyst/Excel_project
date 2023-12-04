@@ -16,9 +16,9 @@ To carry out this project a series of steps must be carried out in order to inte
 
 ## Excel concept applied are:
 
-Tables
-Pivot tables 
-Power Query
+- Tables
+- Pivot tables 
+- Power Query
 
 ## problem statement
 In my project, i encountered chaallenges with inconsistent data formatting in the "Billing Amount" column, which prompted me to standardize the representation by adding dollar signs.
@@ -67,8 +67,8 @@ I employed a double line chart to illustrate the distribution of blood types acr
 ![Screenshot (31)](https://github.com/olaanalyst/Excel_project/assets/141564936/20ff46c6-c35f-4bce-b681-130066618a72)
 
 ## Conclusion
---The visual exploration of the dataset has provided valuable insights into various aspects of the healthcare records.
---The timelines, double bar charts, and double line charts effectively portrayed the distribution of medical conditions, admission types, duration, and blood types across different dimensions.
---These visualizations not only enhance the understanding of the dataset but also offer a foundation for more in-depth analyses.
---The combination of data cleaning, column additions, and strategic visualizations has transformed the raw dataset into a rich source of information, empowering informed decision-making in the Healthcare context.
+- The visual exploration of the dataset has provided valuable insights into various aspects of the healthcare records.
+- The timelines, double bar charts, and double line charts effectively portrayed the distribution of medical conditions, admission types, duration, and blood types across different dimensions.
+- These visualizations not only enhance the understanding of the dataset but also offer a foundation for more in-depth analyses.
+- The combination of data cleaning, column additions, and strategic visualizations has transformed the raw dataset into a rich source of information, empowering informed decision-making in the Healthcare context.
 
