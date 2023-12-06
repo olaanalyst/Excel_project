@@ -46,23 +46,22 @@ To enhance user interaction, i've implemented a slicer feature enabling the segm
 ![Screenshot (27)](https://github.com/olaanalyst/Excel_project/assets/141564936/d5cb0e2b-384a-45b9-9158-b01e8c76bd5d)
 
 # Total Revenue from year 2018 to 2023
-In the visual presentation of total revenue spanning from 2018 to 2023, i've employed a pie chart to succinctly depict the proportional contribution of each year to the overall revenue. This visual representation offers a quick and intuitive understanding of the revenue distribution across specified timeline, facilitating insightful analysis of revenue trends over the past six years.
+The Healthcare services managed to generate a Total Revenue of $255,168,068 for SIX (6) years. Starting at $5,422,484 in 2018, there was a substantial increase in 2019, reaching $49,756,616. However, subsequent years witnessed a fluctuation, with revenues of $52,750,866 in 2020, $52,612,046 in 2021, and $52,106,931 in 2022. Notably, there was a significant decrease in 2023 with $42,519,126. these trends indicate potential shifts in the healthcare industry during the period.
 
 ![Screenshot (26)](https://github.com/olaanalyst/Excel_project/assets/141564936/3181aa9e-a3af-4f54-b957-c65f99642059)
 
 # Distribution of Admission type by Duration and Average Billing Amount
-I've delved into the distribution of admission types, dissecting them by duration and presenting the associated average billing amounts. 
-This dual-axis visualization provides a comprehensive understanding of how admission types vary in duration and  corresponding billing, offering valuable insights into the dynamics of healthcare service utilization within different time frames.
+Examining the distribution of admission types reveals distinct patterns in both duration and average billing amounts. Elective admissions exhibit a cumulative duration of 50,579 with an average billing amount of $25,892. Meanwhile, Emergency admissions, totaling a duration of 52,558 show a slightly lower average billing amount at $24,709. Urgent admissions with a summed duration of 52,481 have an average billing amount of $25,961. These insights underscore the interplay between admission types, duration, and billing amounts, providing valuable information for strategic considerations in healthcare management.  
 
 ![Screenshot (30)](https://github.com/olaanalyst/Excel_project/assets/141564936/0a02cc11-9b3e-4886-b024-36a1ccebdf1b)
 
 # Duration of Medical Condition
-I've depicted the duration of medical conditions, each bar on the chart represents a specific medical condition with the length of the bars corresponding to the duration associated with each condition. This visualization provides a straight forward and insightful representation of the varrying duration across different medical conditions within the dataset.
+Analyzing the summed duration of medical conditions reveals interesting insights. Asthma leads with a total duration of 26,442, closely followed by Arthritis at 26,384 and Cancer at 26,362. Hypertension and Diabates exhibits durations of 26,046 and 25,277. Obesity with a total duration of 25,107 rounds out the list. These figures shed light on the varying impact and resource utilization associated with different medical condition, offering valuable information for healthcare resource allocation.
 
 ![Screenshot (32)](https://github.com/olaanalyst/Excel_project/assets/141564936/79184fd1-08b0-435e-b034-7ac78ce131a3)
 
 # Blood Type for both Gender
-I employed a double line chart to illustrate the distribution of blood types across genders. This visualization effectively compares the prevalance of different blood types for both males and females patients over the dataset. The dual lines offer a clear and concise representation, allowing for easy insights into the distribution patterns across genders. 
+Examining blood types distribution across genders reveals interesting patterns. For A-, females lead with 633, surpassing males at 605. A similar trend is observed in A+ where females with 629 exceed males with 612. AB- shows a notable difference with 671 in females compared to 604 in males, while AB+ displays a narrower gap with 637 in females and 621 in males. B- exhibits 635 in females and 617 in males. and B+ shows 640 in females against 604 in males. O- indicates a higher count in females 655 than male 589, while O+ has 641 in females and 607 in males. These insights into blood type distribution among genders can inform healthcare considerations and may be relevant for medical research and planning.
 
 ![Screenshot (31)](https://github.com/olaanalyst/Excel_project/assets/141564936/20ff46c6-c35f-4bce-b681-130066618a72)
 
