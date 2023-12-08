@@ -5,6 +5,14 @@ In my project, i aim to optimize data quality by employing data cleaning techniq
 ## Data sourcing 
 This dataset was downloaded from kaggle website. it contains the details patients infomation, Doctor's name, blood type, Billing amount, Date of Admission and discharge e.t.c, Updated up till 2018 to 2023 and there are 10001 rows and 16 column present in the Healthcare Dashboard.
 
+## problem statement
+In my healthcare dashboard in Excel, I encountered the challenges of effectively visualizing the distribution of admission types concerning their duration and corresponding average billing amounts. Additionally, there was a need to aggregate the duration of medical conditions for a comprehensive understanding. Furthermore, i aimed to correlate blood type with gender for a more detailed analysis.
+
+## Solution
+To overcome these challenges, I implemented a comprehensive approach in the healthcare dashboard. Firstly, i enhanced the visualization of Admission types by introducing a new column, "Duration", calculated as the difference between date of admission and discharge date. This not only provided a clearer representation of the duration associated with each admission type but also facilitated a more granular analysis of patient stay.
+Additionally, i incorporated a SUM function to aggregate the duration of medical conditions, contributing to a holistic understanding of the cumulative impact on patients healthcare experiences. Furthermore, I extended the analysis by correlating blood types with gender, creating a multifaceted view that adds depth to demographic insights within the healthcare dashboard.
+
+
 ## Data Analysis Process
 To carry out this project a series of steps must be carried out in order to interpret this information. Finding these procedures is crucial because each step is important in ensuring that the data is processed correctly in order to provide relevant and useful information. the steps in this projects are listed below:
 
@@ -19,11 +27,6 @@ To carry out this project a series of steps must be carried out in order to inte
 - Tables
 - Pivot tables 
 - Power Query
-
-## problem statement
-In my project, i encountered chaallenges with inconsistent data formatting in the "Billing Amount" column, which prompted me to standardize the representation by adding dollar signs.
-Additionally, i introduced a "Duration" column to capture time-related aspects. However the dataset suffered from duplications in the new values, necessitating a thorough data cleaning process to refine and streamline the information.
-Addressing these issues is pivotal to ensure data uniformity and eliminate redundancy, paving the way for accurate analysis and meaningful visualization.
 
 ## Data cleaning process
 Data Cleaning also known as data cleansing or scrubbing, is the process of identifying and correcting errors, inconsistencies, and inaccuracies within a dataset. This dataset which contains 10001 observations(rows) with 16 variables(columnns), some column like "Biliing amount" i added dollar signs. I identified and removed duplicate values within the dataset. 
