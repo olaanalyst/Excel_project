@@ -50,7 +50,7 @@ To enhance user interaction, i've implemented a slicer feature enabling the segm
 
 
 # Total Revenue from year 2018 to 2023
-The Healthcare services managed to generate a Total Revenue of $255,168,068 for SIX (6) years. Starting at $5,422,484 in 2018, there was a substantial increase in 2019, reaching $49,756,616. However, subsequent years witnessed a fluctuation, with revenues of $52,750,866 in 2020, $52,612,046 in 2021, and $52,106,931 in 2022. Notably, there was a significant decrease in 2023 with $42,519,126. these trends indicate potential shifts in the healthcare industry during the period.
+The Healthcare services managed to generate a Total Revenue of $255,168,068 for SIX (6) years. Starting at $5,422,484 in 2018, there was a substantial increase in 2019, reaching $49,756,616. However, subsequent years witnessed a fluctuation, with revenues of $52,750,866 in 2020, $52,612,046 in 2021, and $52,106,931 in 2022. Notably, there was a significant decrease in 2023 with $42,519,126, it's crucial to note that the year has not concluded. This financial insight suggests effective healthcare management strategies and a sustained demand for healthcare services.
 
 ![Screenshot (26)](https://github.com/olaanalyst/Healthcare_Excel_Dashboard_Analysis/assets/141564936/8ec54771-8912-4b1c-bf57-bad29aa86bc7)
 
